@@ -1,0 +1,50 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: White;
+}
+
+h1 {
+  color: black;
+  font-family: monospace;
+  font-size: 150%;
+  text-indent: 20px;
+  margin-left: 20px;
+}
+
+h2 {
+  color: black;
+  font-family: monospace;
+  font-size: 150%;
+  text-indent: 20px;
+  margin-left: 20px;
+}
+
+h3 {
+  color: black;
+  font-family: monospace;
+  font-size: 150%;
+  text-indent: 20px;
+  margin-left: 20px;
+}
+
+p {
+  font-family: "helvetica";
+  text-indent: 20px;
+  margin-left: 20px;
+  color: blue;
+}
+
+img {
+  float: right;
+}
+
+#content {
+  background-color: #White;
+  width: auto;
+  min-height: 290px;
+  padding: 0px;
+  margin: 0px;
+  border: solid 5px grey;
+  font-size: 20px;
+}
