@@ -1,16 +1,18 @@
 /*
- * Author: Helia Fotoohi
+ * Authors: Helia Fotoohi, <hfotoohi@ucsc.edu>
+ * Created: 27 January
+ * License: Public Domain
+ */
 
+ //Variables
+  Make = "Ford";
+  Model = "Fusion";
+  Color = "Grey";
+    var year = 2010;
+    var ownIt = true;
 
+CurrentAge = 2021 - year;
 
+document.writeln("make: "+Make);
 
-
-make = "Nissan"
-model = "Sentra"
-Color = "White"
-year = 2006
-age = 2020 - 2006
-var = mycar
-var = "mycar"
-var ownIt = true
-console.log("age: " + age)
+document.writeln("age: "+CurrentAge);
