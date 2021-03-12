@@ -58,3 +58,15 @@ vid.onpause = function() {
 
 </body>
 </html>
+
+setTimeout(()=> {
+    console.log('greetings from setTimeout');
+}, 5000);
+
+//change to
+
+let message = ()=> {
+  console.log('greetings from setTimeout');
+}
+
+setTimeout(message, 5000);
