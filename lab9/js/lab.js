@@ -1,6 +1,6 @@
 /**
 * Author: Helia Fotoohi
-* Created:
+* Created: lab 9
 *
 **/
 
@@ -14,4 +14,5 @@ new1El.innerHTML = "hey friends";
 new2El.innerHTML = "what's crackin?";
 
 outputEl.appendChild(new1El);
+
 outputEl.appendChild(new2El);

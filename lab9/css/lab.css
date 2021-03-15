@@ -1,0 +1,48 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: #3D9970;
+}
+
+canvas {
+  display: block;
+}
+
+h1 {
+  color: darkblue;
+  font-family: helvetica;
+  font-size: 200%;
+  text-indent: 20px;
+  margin-left: 20px;
+}
+
+p {
+  font-family: "helvetica";
+  text-indent: 20px;
+  margin-left: 20px;
+  color: blue;
+}
+
+ul {
+  font-family: "helvetica";
+  text-indent: 20px;
+  margin-left: 20px;
+  color: darkblue;
+  font-size: 150%;
+}
+
+#content {
+  background-color: #3D9970;
+  width: auto;
+  min-height: 290px;
+  padding: 0px;
+  margin: 0px;
+  border: solid 5px grey;
+  font-size: 20px;
+}
+
+#output p {
+  font-family: monospace;
+  color: white;
+  font-size: 16px;
+}
