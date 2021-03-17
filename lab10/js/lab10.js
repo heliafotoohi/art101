@@ -8,6 +8,7 @@ var sortButton = document.getElementById("sort-button");
 
 //event listener
 sortButton.addEventListener("click", function(){
+  
   // find elements
   var output = document.getElementById("output");
   var name = document.getElementById("user-name");

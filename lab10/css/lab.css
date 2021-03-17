@@ -1,0 +1,15 @@
+h1 {
+  border: solid 2px #ff3399;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 10px;
+}
+
+.talk {
+  font-family: monospace;
+  font-weight: bold;
+}
+
+h2 span {
+  background-color:  #ffcce6;
+}
