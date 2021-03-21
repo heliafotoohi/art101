@@ -3,9 +3,10 @@
   border-radius: 10px;
   padding: 10px;
   margin: 10px;
+  width: auto;
 }
 
 .special {
-  background-color: #fdf7ed;
-  border: solid 1px maroon;
+  background-color: lightpink;
+  border: solid 3px red;
 }
